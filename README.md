@@ -32,16 +32,16 @@ This project is a smart water dispenser system built using an ESP32 microcontrol
 2. Upload the MicroPython script to the ESP32 using tools like `ampy` or Thonny IDE.
 3. Connect the components as described above.
 
-##Full View of The Project
+## Full View of The Project
 ![photo_3_2024-12-12_23-40-46](https://github.com/user-attachments/assets/fdb46595-df2e-4a6d-94ca-1789ea2315ab)
 
-##Ultrasound Sensor
+## Ultrasound Sensor
 ![photo_2_2024-12-12_23-40-46](https://github.com/user-attachments/assets/a1e7eaa5-ad45-4eb4-b006-a95e710ba04f)
 
-#Relay
+## Relay
 ![photo_5_2024-12-12_23-40-46](https://github.com/user-attachments/assets/285b3a41-aa4b-48bf-a99c-502df024be46)
 
-#Esp32
+## Esp32
 ![photo_6_2024-12-12_23-40-46](https://github.com/user-attachments/assets/8d5515b5-6680-4474-83f1-64d1ee567dfc)
 
 
