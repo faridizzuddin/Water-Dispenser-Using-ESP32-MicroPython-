@@ -29,7 +29,7 @@ This project is a smart water dispenser system built using an ESP32 microcontrol
 
 ## Installation and Setup
 1. Install MicroPython firmware on your ESP32.
-2. Upload the MicroPython script to the ESP32 using tools like `ampy` or Thonny IDE.
+2. Upload the MicroPython script to the ESP32 uPycraft IDE or PyMakr Extension on vscode.
 3. Connect the components as described above.
 
 ## Full View of The Project
