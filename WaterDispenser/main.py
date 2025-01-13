@@ -1,5 +1,6 @@
 from machine import Pin, Timer
 import time
+import iotConnect
 
 # Define pins
 trig_pin = Pin(13, Pin.OUT)
@@ -48,4 +49,7 @@ while True:
     else:
         stop_dispensing()
 
+    
+    iotConnect.main()  # Call the iotConnect function to send data to the cloud
+    
     time.sleep(0.2) # Adjust delay as needed.  Too short a delay might cause erratic behavior.
