@@ -17,7 +17,7 @@ def get_distance():
     time.sleep_us(10)
     trig_pin.value(0)
 
-    while echo_pin.value() == 0:
+    while echo_pin.value()  == 0:
         pulse_start = time.ticks_us()
 
     while echo_pin.value() == 1:
