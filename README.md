@@ -44,6 +44,9 @@ This project is a smart water dispenser system built using an ESP32 microcontrol
 ## Esp32
 ![photo_6_2024-12-12_23-40-46](https://github.com/user-attachments/assets/8d5515b5-6680-4474-83f1-64d1ee567dfc)
 
+## Full Diagram 
+![image](https://github.com/user-attachments/assets/469ead40-6cde-4bc5-8b7b-9e0943fcc481)
+
 
 ## Usage
 1. Power up the ESP32 and ensure the wiring is correct.
